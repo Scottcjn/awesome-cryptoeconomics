@@ -127,6 +127,10 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [dBFT vs PoW and PoS](https://www.econotimes.com/Blockchain-project-Antshares-explains-reasons-for-choosing-dBFT-over-PoW-and-PoS-659275) Antshare's (now NEO) views on consensus
 1.  [Intro to Ethermint BFT](https://blog.cosmos.network/a-beginners-guide-to-ethermint-38ee15f8a6f4)
 
+
+#### PoA - Proof of Antiquity
+1.  [RustChain: Proof-of-Antiquity Consensus](https://github.com/Scottcjn/Rustchain) A novel consensus mechanism where mining rewards are weighted by hardware antiquity — vintage devices (PowerPC G4/G5, Pentium 4) earn higher multipliers verified through 6-point hardware fingerprinting. Uses time-aged decay functions, round-robin 1-CPU-1-Vote, and Ergo blockchain anchoring.
+
 ### Network Effects
 1.  [A Note on Metcalfe's Law, Externalities and Ecosystem Splits](https://vitalik.ca/general/2017/07/27/metcalfe.html) by Vitalik Buterin
 1.  [Continuous Token Models: Towards a Million Networks of Value](https://media.consensys.net/exploring-continuous-token-models-towards-a-million-networks-of-value-fff153175776) by Simon de la Rouviere
